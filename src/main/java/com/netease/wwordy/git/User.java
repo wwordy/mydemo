@@ -1,4 +1,4 @@
-package com.netease.wwordy;
+package com.netease.wwordy.git;
 
 /**
  * @author liuwangwang@corp.netease.com
