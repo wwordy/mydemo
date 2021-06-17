@@ -7,5 +7,7 @@ package com.netease.wwordy.test;
 public class MtyTest {
     public static void main(String[] args) {
         System.out.println("mytest...........");
+
+        System.out.println("mytest2......");
     }
 }
