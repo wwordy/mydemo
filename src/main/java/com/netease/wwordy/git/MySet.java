@@ -1,4 +1,4 @@
-package com.netease.wwordy;
+package com.netease.wwordy.git;
 
 import com.google.common.collect.Lists;
 
@@ -6,7 +6,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 /**
  * @author liuwangwang@corp.netease.com
